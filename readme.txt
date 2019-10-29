@@ -5,4 +5,4 @@ Git has a mutable index called stage.
 
 现在开始使用dev分支
 
-现在开始使用feature1分支
+现在开始使用master分支
